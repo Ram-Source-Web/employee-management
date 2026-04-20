@@ -1,1 +1,5 @@
-Ram,developer,staines,Tester,John,Manager
+Name             Role
+Ram              developer
+staines          Tester
+John             Manager
+Ravi             HR
